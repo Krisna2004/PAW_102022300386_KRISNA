@@ -4,7 +4,7 @@
 $host = "localhost"; // atau IP server database
 $username = "root";  // username database
 $password = "";      // password database
-$database = "nama_database"; // ganti dengan nama database yang digunakan
+$database = "EAD_LABORATORY"; // ganti dengan nama database yang digunakan
 $port = 3306;        // port default MySQL
 
 // ==================2==================
